@@ -1,0 +1,409 @@
+======---q1---=======
+Fri Mar 1 20:06:57 EST 2019
+Checking format violation by a script...
+Compiling q1.c to q1
+Comparing using input q1.input.3 and answer q1.ans.3
+Diff output (empty line means correct):
+
+Comparing using input q1.input.1 and answer q1.ans.1
+Diff output (empty line means correct):
+
+Comparing using input q1.input.2 and answer q1.ans.2
+Diff output (empty line means correct):
+
+======---q10---=======
+Fri Mar 1 21:06:20 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.020000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.020000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,8c5,9
+< 400                  1.2246
+< 450                  1.0891
+< 500                  0.9807
+< 550                  0.8918
+< 600                  0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.102000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.102000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,5c5,6
+< 400                  6.1131
+< 500                  4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:06:50 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.020000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.020000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,8c5,9
+< 400			1.2246
+< 450			1.0891
+< 500			0.9807
+< 550			0.8918
+< 600			0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.102000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.102000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,5c5,6
+< 400			6.1131
+< 500			4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:07:05 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.020000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.020000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,8c5,9
+< 400						1.2246
+< 450						1.0891
+< 500						0.9807
+< 550						0.8918
+< 600						0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.102000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.102000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,5c5,6
+< 400						6.1131
+< 500						4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:07:17 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.020000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.020000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,8c5,9
+< 400					1.2246
+< 450					1.0891
+< 500					0.9807
+< 550					0.8918
+< 600					0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+1,2c1,3
+< Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 0.102000 moles of carbon dioxide at 300.0 K
+< Volume (ml)        Pressure (atm)
+---
+> Quantity of carbon dioxide (moles)> Temperature (kelvin)> Initial volume (milliliters)> Final volume (milliliters)> Volume increment (milliliters)> 
+> 0.102000 moles of carbon dioxide at 300.0 K
+> Volume (l)		Pressure (atm)
+4,5c5,6
+< 400					6.1131
+< 500					4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:08:30 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,9c5,9
+< 400					1.2246
+< 450					1.0891
+< 500					0.9807
+< 550					0.8918
+< 600					0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,6c5,6
+< 400					6.1131
+< 500					4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:09:41 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+q10.c: In function ‘print_table’:
+q10.c:63:14: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘double’ [-Wformat=]
+     printf("%d\t\t\t\t\t%.4f\n", current_vol, pressure);
+             ~^
+             %f
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,9c5,9
+< -1112171568					0.4000
+< -1112171522					0.4500
+< -1112171522					0.5000
+< -1112171522					0.5500
+< -1112171522					0.6000
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,6c5,6
+< 185732048					0.4000
+< 185732094					0.5000
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:10:12 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,9c5,9
+< 0.400000					1.2246
+< 0.450000					1.0891
+< 0.500000					0.9807
+< 0.550000					0.8918
+< 0.600000					0.8178
+---
+> 0.400000				1.2246
+> 0.450000				1.0891
+> 0.500000				0.9807
+> 0.550000				0.8918
+> 0.600000				0.8178
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+5,6c5,6
+< 0.400000					6.1131
+< 0.500000					4.9167
+---
+> 0.400000				6.1131
+> 0.500000				4.9167
+======---q10---=======
+Fri Mar 1 21:10:27 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+3c3
+< Volume (ml)        Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+======---q10---=======
+Fri Mar 1 21:10:46 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+3c3
+< Volume (l)				Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+3c3
+< Volume (l)				Pressure (atm)
+---
+> Volume (l)		Pressure (atm)
+======---q10---=======
+Fri Mar 1 21:10:59 EST 2019
+Checking format violation by a script...
+File q10.c, line 41: [TOO LONG (83 CHARS)]:
+  print_table(carbon_dioxide_moles, temperature, volume_i, volume_f, delta_volume);
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+======---q10---=======
+Fri Mar 1 21:11:14 EST 2019
+Checking format violation by a script...
+Compiling q10.c to q10
+Comparing using input q10.input.1 and answer q10.ans.1
+Diff output (empty line means correct):
+
+Comparing using input q10.input.2 and answer q10.ans.2
+Diff output (empty line means correct):
+
+======---q14---=======
+Fri Mar 1 21:29:30 EST 2019
+Checking format violation by a script...
+File q14.c, line 12: [PUT SPACE AROUND OPERATORS]:
+  printf("Half-Life Co-60\n");
+File q14.c, line 14: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter amount of Co-60: ");
+File q14.c, line 19: [PUT SPACE AROUND OPERATORS]:
+    remaining_amt = co_amt*pow(pow(M_E, -0.693), (i / CO_HALF_LIFE));
+Compiling q14.c to q14
+Comparing using input q14.input.1 and answer q14.ans.1
+Diff output (empty line means correct):
+
+4d3
+< 
+======---q14---=======
+Fri Mar 1 21:30:44 EST 2019
+Checking format violation by a script...
+File q14.c, line 12: [PUT SPACE AROUND OPERATORS]:
+  printf("Half-Life Co-60\n");
+File q14.c, line 14: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter amount of Co-60: ");
+File q14.c, line 19: [PUT SPACE AROUND OPERATORS]:
+    remaining_amt = co_amt*pow(pow(M_E, -0.693), (i / CO_HALF_LIFE));
+Compiling q14.c to q14
+Comparing using input q14.input.1 and answer q14.ans.1
+Diff output (empty line means correct):
+
+======---q14---=======
+Fri Mar 1 21:31:11 EST 2019
+Checking format violation by a script...
+File q14.c, line 12: [PUT SPACE AROUND OPERATORS]:
+  printf("Half-Life Co-60\n");
+File q14.c, line 14: [PUT SPACE AROUND OPERATORS]:
+  printf("Enter amount of Co-60: ");
+Compiling q14.c to q14
+Comparing using input q14.input.1 and answer q14.ans.1
+Diff output (empty line means correct):
+
